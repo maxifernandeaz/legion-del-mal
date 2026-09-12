@@ -15,7 +15,7 @@ Invisible desde la Tierra (cara oculta). Green Lantern podría detectarla si pat
 
 
 ## Coordenadas 
-- Latitud: 0.657^ E
+- Latitud: 0.34r57^ E
 - Longitud 34.444
 
 
